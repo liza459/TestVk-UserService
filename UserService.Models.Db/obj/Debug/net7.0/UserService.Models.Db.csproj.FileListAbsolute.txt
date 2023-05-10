@@ -10,3 +10,15 @@ E:\liza\repos\repos\test\UserService.Models.Db\obj\Debug\net7.0\UserService.Mode
 E:\liza\repos\repos\test\UserService.Models.Db\obj\Debug\net7.0\refint\UserService.Models.Db.dll
 E:\liza\repos\repos\test\UserService.Models.Db\obj\Debug\net7.0\UserService.Models.Db.pdb
 E:\liza\repos\repos\test\UserService.Models.Db\obj\Debug\net7.0\ref\UserService.Models.Db.dll
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\bin\Debug\net7.0\UserService.Models.Db.deps.json
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\bin\Debug\net7.0\UserService.Models.Db.dll
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\bin\Debug\net7.0\UserService.Models.Db.pdb
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\obj\Debug\net7.0\UserService.Models.Db.csproj.AssemblyReference.cache
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\obj\Debug\net7.0\UserService.Models.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\obj\Debug\net7.0\UserService.Models.Db.AssemblyInfoInputs.cache
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\obj\Debug\net7.0\UserService.Models.Db.AssemblyInfo.cs
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\obj\Debug\net7.0\UserService.Models.Db.csproj.CoreCompileInputs.cache
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\obj\Debug\net7.0\UserService.Models.Db.dll
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\obj\Debug\net7.0\refint\UserService.Models.Db.dll
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\obj\Debug\net7.0\UserService.Models.Db.pdb
+C:\Users\ln459\source\repos\TestVk-UserService\UserService.Models.Db\obj\Debug\net7.0\ref\UserService.Models.Db.dll

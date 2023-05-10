@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System;
 using UserService.Data.Interfaces;
 using UserService.Data.Provider.Sql.Ef;
 using UserService.Models.Db;
@@ -15,13 +16,10 @@ public class UserRepository : IUserRepository
 
     public async Task<Guid?> CreateAsync(DbUser dbUser)
     {
-        if (dbUser is null)
-        {
-            return null;
-        }
-
         await _provider.Users.AddAsync(dbUser);
         await _provider.SaveChangesAsync();
+        Thread.Sleep(5000);
+
         return dbUser.Id;
     }
 

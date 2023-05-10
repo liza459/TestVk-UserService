@@ -24,6 +24,7 @@ public class InitialTables : Migration
             constraints: table =>
             {
                 table.PrimaryKey($"PK_{DbUser.TableName}", u => u.Id);
+                table.UniqueConstraint($"UX_{DbUser.TableName}_Login_unique", x => x.Login);
             });
     }
 

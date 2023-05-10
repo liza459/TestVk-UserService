@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using UserService.Business.Commands.User.Interfaces;
+using UserService.Models.Db;
 using UserService.Models.Dto.Models;
 using UserService.Models.Dto.Requests.User;
 using UserService.Models.Dto.Response;
@@ -16,7 +17,7 @@ public class UserController : ControllerBase
       [FromBody] CreateUserRequest request)
     {
         OperationResultResponse<Guid?> response = await command.ExecuteAsync(request);
-        
+
         if (response.Errors.Count > 0)
         {
             HttpContext.Response.StatusCode = 400;

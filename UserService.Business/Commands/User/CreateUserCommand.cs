@@ -51,18 +51,11 @@ public class CreateUserCommand : ICreateUserCommand
             return response;
         }
 
-        var user = _mapper.Map(request, (Guid)groupId, (Guid)stateId);
+        response.Body = await _userRepository.CreateAsync(_mapper.Map(request, (Guid)groupId, (Guid)stateId));
 
-        if (user.UserGroup.Group == "admin")
+        if(response.Body is null) 
         {
-            lock (user)
-            {
-                _userRepository.CreateAsync(user);
-            }
-        }
-        else
-        {
-            response.Body = await _userRepository.CreateAsync(user);
+            response.Errors = new List<string> { "User with this login already exists." };
         }
 
         return response;
