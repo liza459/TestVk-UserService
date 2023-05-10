@@ -1,0 +1,17 @@
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\bin\Debug\net7.0\UserService.Data.Provider.Sql.Ef.deps.json
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\bin\Debug\net7.0\UserService.Data.Provider.Sql.Ef.dll
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\bin\Debug\net7.0\UserService.Data.Provider.Sql.Ef.pdb
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\bin\Debug\net7.0\UserService.Models.Db.dll
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\bin\Debug\net7.0\UserService.Models.Db.pdb
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\UserService.Data.Provider.Sql.Ef.csproj.AssemblyReference.cache
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\UserService.Data.Provider.Sql.Ef.GeneratedMSBuildEditorConfig.editorconfig
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\UserService.Data.Provider.Sql.Ef.AssemblyInfoInputs.cache
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\UserService.Data.Provider.Sql.Ef.AssemblyInfo.cs
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\UserService.Data.Provider.Sql.Ef.csproj.CoreCompileInputs.cache
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\UserService.Data.Provider.Sql.Ef.csproj.CopyComplete
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\UserService.Data.Provider.Sql.Ef.dll
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\refint\UserService.Data.Provider.Sql.Ef.dll
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\UserService.Data.Provider.Sql.Ef.pdb
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\ref\UserService.Data.Provider.Sql.Ef.dll
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\bin\Debug\net7.0\UserService.Data.Provider.Sql.Ef.runtimeconfig.json
+E:\liza\repos\repos\test\UserService.Data.Provider.MsSql.Ef\obj\Debug\net7.0\UserService.Data.Provider.Sql.Ef.genruntimeconfig.cache

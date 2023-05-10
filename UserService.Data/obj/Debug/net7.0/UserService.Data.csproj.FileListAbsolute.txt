@@ -1,0 +1,17 @@
+E:\liza\repos\repos\test\UserService.Data\bin\Debug\net7.0\UserService.Data.deps.json
+E:\liza\repos\repos\test\UserService.Data\bin\Debug\net7.0\UserService.Data.dll
+E:\liza\repos\repos\test\UserService.Data\bin\Debug\net7.0\UserService.Data.pdb
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\UserService.Data.csproj.AssemblyReference.cache
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\UserService.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\UserService.Data.AssemblyInfoInputs.cache
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\UserService.Data.AssemblyInfo.cs
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\UserService.Data.csproj.CoreCompileInputs.cache
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\UserService.Data.dll
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\refint\UserService.Data.dll
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\UserService.Data.pdb
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\ref\UserService.Data.dll
+E:\liza\repos\repos\test\UserService.Data\bin\Debug\net7.0\UserService.Data.Provider.Sql.Ef.dll
+E:\liza\repos\repos\test\UserService.Data\bin\Debug\net7.0\UserService.Models.Db.dll
+E:\liza\repos\repos\test\UserService.Data\bin\Debug\net7.0\UserService.Data.Provider.Sql.Ef.pdb
+E:\liza\repos\repos\test\UserService.Data\bin\Debug\net7.0\UserService.Models.Db.pdb
+E:\liza\repos\repos\test\UserService.Data\obj\Debug\net7.0\UserService.Data.csproj.CopyComplete

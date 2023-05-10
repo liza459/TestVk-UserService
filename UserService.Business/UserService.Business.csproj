@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.5.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserService.Data\UserService.Data.csproj" />
+    <ProjectReference Include="..\UserService.Mappers\UserService.Mappers.csproj" />
+    <ProjectReference Include="..\UserService.Models.Dto\UserService.Models.Dto.csproj" />
+    <ProjectReference Include="..\UserService.Validation\UserService.Validation.csproj" />
+  </ItemGroup>
+
+</Project>

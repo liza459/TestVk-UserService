@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserService.Business\UserService.Business.csproj" />
+    <ProjectReference Include="..\UserService.Data.Provider.MsSql.Ef\UserService.Data.Provider.Sql.Ef.csproj" />
+    <ProjectReference Include="..\UserService.Data\UserService.Data.csproj" />
+    <ProjectReference Include="..\UserService.Mappers\UserService.Mappers.csproj" />
+    <ProjectReference Include="..\UserService.Validation\UserService.Validation.csproj" />
+  </ItemGroup>
+
+</Project>

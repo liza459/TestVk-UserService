@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserService.Data.Provider.MsSql.Ef\UserService.Data.Provider.Sql.Ef.csproj" />
+    <ProjectReference Include="..\UserService.Models.Db\UserService.Models.Db.csproj" />
+  </ItemGroup>
+
+</Project>
